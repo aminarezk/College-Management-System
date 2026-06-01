@@ -52,3 +52,7 @@ A web-based College Management System developed using Laravel 7.
 ### Subjects
 
 ![Subjects](screenshots/subjects.png)
+
+### Attendance
+![Attendance](screenshots/attendance.png)
+
